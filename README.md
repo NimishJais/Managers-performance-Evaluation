@@ -1,5 +1,9 @@
 # Managers-performance-analysis-
 
+The employee evaluation Report is very important to calculate the growth of the employee in an organization and also to keep track of his/her work in an organization. So I made a report comparing analysis of a manager to its peers using Power Bi.
+
+
+
 **Report 1**
 
 ![Screenshot (213)](https://user-images.githubusercontent.com/88962354/178142921-ec618711-8197-49d7-9e45-9b88985a58e6.png)
